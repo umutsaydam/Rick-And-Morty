@@ -31,7 +31,7 @@ Uygulama Özellikleri
 - Retrofit - REST API hizmeti için kullanıldı.
 - Glide - Resimleri verimli bir şekilde gösterilmesini sağlar.
 
-## <p id="app-content">TR</p>
+## <p id="app-content">EN</p>
 App Features
   - List of Rick and Morty characters
   - Detail of characters
