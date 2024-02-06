@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RickAndMortyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+    </style>
+
+    <style name="Theme.RickAndMortyApp" parent="Base.Theme.RickAndMortyApp" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.Material3">
+        <item name="android:textSize">17sp</item>
+        <item name="android:titleMarginTop">10dp</item>
+    </style>
+
+    <style name="Icons">
+        <item name="tint">@color/black</item>
+    </style>
+
+    <style name="SpinnerButton">
+        <item name="tint">@color/white</item>
+        <item name="android:background">@drawable/filter_btn_light_theme</item>
+    </style>
+    <style name="SplashScreenTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#191919</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/morty_svgrepo_com__1_</item>
+        <item name="windowSplashScreenAnimationDuration">800</item>
+    </style>
+</resources>

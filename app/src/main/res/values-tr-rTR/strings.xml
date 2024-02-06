@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RickAndMortyApp</string>
+    <string name="character_image">Karakter Resmi</string>
+    <string name="locations">Konumlar</string>
+    <string name="episodes">Bölümler</string>
+    <string name="characters">Karakterler</string>
+    <string name="back">Geri</string>
+    <string name="location">Konum</string>
+    <string name="origin">Köken</string>
+    <string name="status">Durum</string>
+    <string name="gender">Cinsiyet</string>
+    <string name="visit">Ziyaret et</string>
+    <string name="type">Cins</string>
+    <string name="favorites">Favoriler</string>
+    <string name="filter_button">Filtreleme seçimi</string>
+    <string name="apply_filter">Filtreyi uygula</string>
+    <string name="species">Türler</string>
+    <string name="name">İsim</string>
+    <string name="search_by_name">isme göre ara</string>
+    <string name="home_button">Ana sayfa buton</string>
+    <string name="dark_theme">Karanlık tema</string>
+    <string name="current_language">Mevcut dil</string>
+    <string name="en">EN</string>
+    <string name="settings">Ayarlar</string>
+    <string name="light_theme">Açık tema</string>
+    <string name="select_a_language">Bir dil seçin</string>
+    <string name="tr">TR</string>
+    <string name="no_connection">Bağlantı yok</string>
+    <string-array name="genders">
+        <item>Cinsiyet</item>
+        <item>Kadın</item>
+        <item>Erkek</item>
+        <item>Cinsiyetsiz</item>
+        <item>Bilinmiyor</item>
+    </string-array>
+    <string-array name="status">
+        <item>Durumu</item>
+        <item>Hayatta</item>
+        <item>Ölü</item>
+        <item>Bilinmiyor</item>
+    </string-array>
+</resources>
